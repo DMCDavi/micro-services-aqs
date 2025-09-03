@@ -21,6 +21,14 @@ app.use(
   }),
 );
 
+app.use(
+  '/service3',
+  createProxyMiddleware({
+    target: 'http://localhost:3003',
+    changeOrigin: true,
+  }),
+);
+
 // Servir o frontend
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '../frontend/index.html'));
