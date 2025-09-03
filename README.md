@@ -19,10 +19,6 @@ Uma aplicação demonstrativa de arquitetura de microsserviços com gateway, des
 - [Endpoints Disponíveis](#-endpoints-disponíveis)
 - [Testando a Aplicação](#-testando-a-aplicação)
 - [Solução de Problemas](#-solução-de-problemas)
-- [Atividades Sugeridas](#-atividades-sugeridas)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
 
 ## 🎯 Sobre o Projeto
 
